@@ -1,5 +1,5 @@
 ## Project: Automating AWS Infrastructure with Terraform
-## Video Link: https://drive.google.com/file/d/1cBDAVdhgytDylLYuIvkTMFPOc_017sk6/view?usp=sharing
+## Project Video Link: https://drive.google.com/file/d/1cBDAVdhgytDylLYuIvkTMFPOc_017sk6/view?usp=sharing
 🌐 This project showcases my experience with **Terraform** to automate the creation of AWS infrastructure. By leveraging Terraform, I was able to efficiently set up key **AWS** resources like **VPCs**, **EC2 instances**, **route tables**, **subnets**, **security groups**, and **load balancers**.
 
 ## Project Highlights
